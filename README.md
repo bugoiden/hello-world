@@ -1,2 +1,3 @@
 # hello-world
-GitHub guide
+Reading GitHub guide.
+Learn how to create branches.
